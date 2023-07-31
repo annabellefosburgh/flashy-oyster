@@ -7,11 +7,10 @@ JATE, a progressive web application, is a text editor that will run in your brow
 [1. Installation](#Installation)  
 [2. Usage](#Usage)  
 [3. Repository](#Repository)  
-[4. Walkthrough](#Walkthrough)  
-[5. Contributors](#Contributors)  
-[6. Example Images](#Example-Images)  
-[7. Sources](#Sources)  
-[8. License](#License)  
+[4. Contributors](#Contributors)  
+[5. Example Images](#Example-Images)  
+[6. Sources](#Sources)  
+[7. License](#License)  
 
 ## Installation
 To run this on your computer, take the starter code and add it to your own repository. Run an ```npm i``` command to install all needed dependencies and then use the ```npm run start``` command.
@@ -29,7 +28,7 @@ Write in the text editor! Push the install button in the top corner to run it lo
 [Annabelle Fosburgh](https://github.com/annabellefosburgh)
 
 ## Example Images
-
+![Screen Shot 2023-07-31 at 6 52 22 PM](https://github.com/annabellefosburgh/prework-study-guide/assets/124208861/5ea70820-7160-4d24-a675-e07659c52de3)  
 
 ## Sources
 [Html Webpack Plugin Docs](https://webpack.js.org/plugins/html-webpack-plugin/)  
