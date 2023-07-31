@@ -7,7 +7,7 @@ const { InjectManifest } = require('workbox-webpack-plugin');
 const WorkboxPlugin = require("workbox-webpack-plugin");
 
 //Adding CSS loaders and babel to webpack
-const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+// const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 module.exports = () => {
   return {
@@ -27,7 +27,7 @@ module.exports = () => {
         title: "Webpack Plugin",
       }),
       //Adding new CssExtract plugin
-      new MiniCssExtractPlugin(),
+      // new MiniCssExtractPlugin(),
       //Adding a new WebpackPwa plugin
       new WebpackPwaManifest({
         fingerprints: false,
@@ -35,7 +35,6 @@ module.exports = () => {
         name: "Just Another Text Editor",
         short_name: "J.A.T.E",
         description: "Take notes with Javascript syntax highlighting!",
-        theme_color: "#225aca3",
         background_color: "#225ca3",
         start_url: '/',
 				publicPath: '/',
