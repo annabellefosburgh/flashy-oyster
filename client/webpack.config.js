@@ -3,10 +3,10 @@ const WebpackPwaManifest = require('webpack-pwa-manifest');
 const path = require('path');
 const { InjectManifest } = require('workbox-webpack-plugin');
 
-//Added and configured workbox plugins for a service worker and manifest file
+//Adding and configuring workbox plugins for a service worker and manifest file
 const WorkboxPlugin = require("workbox-webpack-plugin");
 
-//Added CSS loaders and babel to webpack
+//Adding CSS loaders and babel to webpack
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 module.exports = () => {
