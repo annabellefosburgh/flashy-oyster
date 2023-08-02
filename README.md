@@ -20,6 +20,7 @@ Write in the text editor! Push the install button in the top corner to run it lo
 
 ## Repository
 [Github Repository](https://github.com/annabellefosburgh/flashy-oyster)
+[Link to deployed application on heroku.](https://text-editor-19-oyster-aeeb431c9f04.herokuapp.com/)  
 
 ## Contributors
 [Annabelle Fosburgh](https://github.com/annabellefosburgh)
